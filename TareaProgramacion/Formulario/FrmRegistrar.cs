@@ -1,4 +1,5 @@
-﻿using Domain.ActivoFijo.Enums;
+﻿using AppCore.Interfaces.Services;
+using Domain.ActivoFijo.Enums;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,8 +14,11 @@ namespace TareaProgramacion.Formulario
 {
     public partial class FrmRegistrar : Form
     {
-        public FrmRegistrar()
+        private ActivoFijoServices Activos;
+        
+        public FrmRegistrar(ActivoFijoServices activos)
         {
+            this.Activos = activos;
             InitializeComponent();
         }
 

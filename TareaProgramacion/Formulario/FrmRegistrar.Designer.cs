@@ -30,9 +30,9 @@
         {
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.txtDescripcion = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.txtCodigo = new System.Windows.Forms.TextBox();
+            this.txtValorResidual = new System.Windows.Forms.TextBox();
+            this.txtValorActivo = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -59,26 +59,26 @@
             this.txtDescripcion.Size = new System.Drawing.Size(100, 20);
             this.txtDescripcion.TabIndex = 1;
             // 
-            // textBox3
+            // txtCodigo
             // 
-            this.textBox3.Location = new System.Drawing.Point(105, 142);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 2;
+            this.txtCodigo.Location = new System.Drawing.Point(105, 142);
+            this.txtCodigo.Name = "txtCodigo";
+            this.txtCodigo.Size = new System.Drawing.Size(100, 20);
+            this.txtCodigo.TabIndex = 2;
             // 
-            // textBox5
+            // txtValorResidual
             // 
-            this.textBox5.Location = new System.Drawing.Point(105, 259);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
-            this.textBox5.TabIndex = 4;
+            this.txtValorResidual.Location = new System.Drawing.Point(105, 259);
+            this.txtValorResidual.Name = "txtValorResidual";
+            this.txtValorResidual.Size = new System.Drawing.Size(100, 20);
+            this.txtValorResidual.TabIndex = 4;
             // 
-            // textBox6
+            // txtValorActivo
             // 
-            this.textBox6.Location = new System.Drawing.Point(105, 196);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(100, 20);
-            this.textBox6.TabIndex = 5;
+            this.txtValorActivo.Location = new System.Drawing.Point(105, 196);
+            this.txtValorActivo.Name = "txtValorActivo";
+            this.txtValorActivo.Size = new System.Drawing.Size(100, 20);
+            this.txtValorActivo.TabIndex = 5;
             // 
             // label1
             // 
@@ -186,9 +186,9 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.txtValorActivo);
+            this.Controls.Add(this.txtValorResidual);
+            this.Controls.Add(this.txtCodigo);
             this.Controls.Add(this.txtDescripcion);
             this.Controls.Add(this.txtNombre);
             this.Name = "FrmRegistrar";
@@ -203,9 +203,9 @@
 
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.TextBox txtDescripcion;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtCodigo;
+        private System.Windows.Forms.TextBox txtValorResidual;
+        private System.Windows.Forms.TextBox txtValorActivo;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
