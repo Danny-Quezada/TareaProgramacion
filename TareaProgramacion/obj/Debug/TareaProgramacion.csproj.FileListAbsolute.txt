@@ -1,0 +1,13 @@
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.csprojAssemblyReference.cache
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.Formulario.FrmRegistrar.resources
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.Properties.Resources.resources
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.csproj.GenerateResource.cache
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\bin\Debug\TareaProgramacion.exe.config
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\bin\Debug\TareaProgramacion.exe
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\bin\Debug\TareaProgramacion.pdb
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\bin\Debug\Domain.dll
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\bin\Debug\Domain.pdb
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.csproj.CopyComplete
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.exe
+C:\Users\JADPA_11\source\repos\TareaProgramacion\TareaProgramacion\obj\Debug\TareaProgramacion.pdb
